@@ -7,3 +7,4 @@ This repository contains my projects and exercises from the 100 Days of Code Pyt
 
 ## Projects
 - Day 38 - Workout Tracker
+- Day 39 - Flight Deals

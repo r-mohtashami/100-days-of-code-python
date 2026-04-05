@@ -1,3 +1,8 @@
 # ---------------------- Day 38 - Workout Tracker ---------------------- #
 requests
 python-dotenv
+
+# ---------------------- Day 39 - Flight Deals ---------------------- #
+requests
+python-dotenv
+twilio
