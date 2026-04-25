@@ -4,5 +4,6 @@ python-dotenv
 
 # ---------------------- Day 39 - Flight Deals ---------------------- #
 requests
+requests_cache
 python-dotenv
 twilio
